@@ -28,5 +28,7 @@ static double calculatorPerimeter(double a,double c){
         return rek;
     }
 
-
+public static void alex(){
+    System.out.println(123);
+}
 }
