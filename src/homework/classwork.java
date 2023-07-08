@@ -30,5 +30,6 @@ static double calculatorPerimeter(double a,double c){
 
 public static void alex(){
     System.out.println(123);
+    System.out.println(145);
 }
 }
